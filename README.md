@@ -25,3 +25,8 @@ Dart
 
 Firebase
 
+<img width="1080" height="2400" alt="Screenshot_1770820675" src="https://github.com/user-attachments/assets/29a2988a-9365-42e6-9e0d-6edc2b19cb2b" />
+<img width="1080" height="2400" alt="Screenshot_1770821170" src="https://github.com/user-attachments/assets/d962acd2-82fc-4e3c-91e4-62a8df3be44a" />
+
+
+
