@@ -1,19 +1,21 @@
 #projectconnect 
 
+Here’s a good GitHub description for your ProjectConnect app:
+
 Description:
-This is a simple Calculator app built using Flutter. The application performs basic arithmetic operations like addition, subtraction, multiplication, and division. This project was created to practice Flutter UI design, button handling, and basic logic implementation.
+ProjectConnect is a Flutter-based communication app designed to connect project guides and students. The app allows one-to-one chat and group chat, making it easier for students to discuss projects, share ideas, and get guidance from their mentors. This project was developed to improve communication and collaboration between guides and students in an organized way.
 
 Features:
 
-Addition, Subtraction, Multiplication, Division
+One-to-one chat between guide and student
 
-Clean and simple user interface
+Group chat for project discussions
 
-Button-based input
+Simple and user-friendly interface
 
-Real-time calculation
+Real-time messaging
 
-Clear (C) button
+Organized communication for projects
 
 Technologies Used:
 
@@ -21,20 +23,5 @@ Flutter
 
 Dart
 
-VS Code / Android Studio
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase
 
