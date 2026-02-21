@@ -1,7 +1,5 @@
 #projectconnect 
 
-Here’s a good GitHub description for your ProjectConnect app:
-
 Description:
 ProjectConnect is a Flutter-based communication app designed to connect project guides and students. The app allows one-to-one chat and group chat, making it easier for students to discuss projects, share ideas, and get guidance from their mentors. This project was developed to improve communication and collaboration between guides and students in an organized way.
 
@@ -31,6 +29,7 @@ Firebase
 <img width="1080" height="2400" alt="Screenshot_1770821170" src="https://github.com/user-attachments/assets/cf544070-b602-4bd6-b2d0-9c1821bd8264" />
 <img width="1080" height="2400" alt="Screenshot_1770820662" src="https://github.com/user-attachments/assets/de6d0df1-c6f1-4a20-814e-986a5faef7e2" />
 <img width="1080" height="2400" alt="Screenshot_1770820675" src="https://github.com/user-attachments/assets/bb71ecfb-e5d6-4b21-a748-7b061f05faf6" />
+
 
 
 
