@@ -1,4 +1,27 @@
-# flutter_auth
+#projectconnect 
+
+Description:
+This is a simple Calculator app built using Flutter. The application performs basic arithmetic operations like addition, subtraction, multiplication, and division. This project was created to practice Flutter UI design, button handling, and basic logic implementation.
+
+Features:
+
+Addition, Subtraction, Multiplication, Division
+
+Clean and simple user interface
+
+Button-based input
+
+Real-time calculation
+
+Clear (C) button
+
+Technologies Used:
+
+Flutter
+
+Dart
+
+VS Code / Android Studio
 
 A new Flutter project.
 
@@ -14,3 +37,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
