@@ -25,8 +25,16 @@ Dart
 
 Firebase
 
-<img width="1080" height="2400" alt="Screenshot_1770820675" src="https://github.com/user-attachments/assets/29a2988a-9365-42e6-9e0d-6edc2b19cb2b" />
-<img width="1080" height="2400" alt="Screenshot_1770821170" src="https://github.com/user-attachments/assets/d962acd2-82fc-4e3c-91e4-62a8df3be44a" />
+<img width="1080" height="2400" alt="Screenshot_1771350812" src="https://github.com/user-attachments/assets/915fb7a5-807e-4a0d-b769-e2110c5637e8" />
+<img width="1080" height="2400" alt="Screenshot_1770821216" src="https://github.com/user-attachments/assets/388be46d-3040-4664-bd5c-cf19b4651917" />
+<img width="1080" height="2400" alt="Screenshot_1770821186" src="https://github.com/user-attachments/assets/ddf94027-d32f-4322-b933-71599cb0b8f2" />
+<img width="1080" height="2400" alt="Screenshot_1770821170" src="https://github.com/user-attachments/assets/cf544070-b602-4bd6-b2d0-9c1821bd8264" />
+<img width="1080" height="2400" alt="Screenshot_1770820662" src="https://github.com/user-attachments/assets/de6d0df1-c6f1-4a20-814e-986a5faef7e2" />
+
+
+
+
+
 
 
 
